@@ -47,6 +47,8 @@ GUIメニューの有効化やadb shellなどを利用できるようにしま�
 
 `toybox` を引数なしで実行すると、そのimageに収録された正確なapplet一覧を確認できます。
 
+---
+
 ## License
 
 Kaepi2022 Recovery の自作部分（ramdisk構成、init設定、ビルドスクリプト、ドキュメント）は、Apache License 2.0 の下で提供します。詳細は [LICENSE](LICENSE) を参照してください。
@@ -73,3 +75,10 @@ BusyBoxを含む配布物には、対応するソースコードおよびGPL-2.0
 Benesse/Panasonic/MediaTek等の既存Recovery imageに由来するkernel、Recovery executable、firmware設定、vendorバイナリは、本プロジェクトのApache-2.0ライセンスの対象外です。各ファイルの権利は元の権利者に帰属します。
 
 利用者は、これらのバイナリの使用・改変・再配布について、適用されるライセンスおよび法令を各自で確認してください。
+
+
+---
+
+## 開発・協力
+* [kaepi2022 / MineKura](https://github.com/kaepi2022)
+* [butoryu](https://github.com/butoryu1-2881)
