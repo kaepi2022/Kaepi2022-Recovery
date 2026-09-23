@@ -51,7 +51,7 @@ GUIメニューの有効化やadb shellなどを利用できるようにしま�
 
 Kaepi2022 Recovery の自作部分（ramdisk構成、init設定、ビルドスクリプト、ドキュメント）は、Apache License 2.0 の下で提供します。詳細は [LICENSE](LICENSE) を参照してください。
 
-### Kaepi Recovery FreeKey
+### Kaepi2022 Recovery FreeKey
 
 `kaepi2022-recovery-freekey/keys/` の鍵素材は、誰でもRecovery用update ZIPを作成・署名・改変できることを目的として公開しています。これらの鍵素材は CC0-1.0 相当として扱います。
 
