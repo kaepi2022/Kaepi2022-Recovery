@@ -30,7 +30,7 @@ GUIメニューの有効化やadb shellなどを利用できるようにしま�
 | `unzip` | BusyBox | update ZIPの展開・内容確認 | `unzip ZIPファイル`。 |
 | `mke2fs_static` | AOSP/e2fsprogs | ext filesystemの作成 | 静的リンク済みARM64バイナリ。 |
 | `e2fsdroid_static` | AOSP | ディレクトリツリーからext imageを作成 | 静的リンク済みARM64バイナリ。 |
-| `yaju` | Kaepi2022 | インスターエッグ 810 | `yaju --get_yajuaa`。 |
+| `yaju` | Kaepi2022 | インスターエッグ 810 | `yaju --get_yajuaa` |
 
 ## Toybox applet
 
